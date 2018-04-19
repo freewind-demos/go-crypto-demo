@@ -1,9 +1,13 @@
-Go Hello World Demo
-===================
+Go Crypto Demo
+==============
 
 ```
 brew install go
+go get
 go run hello.go
 ```
 
-You will see `Hello, go!`
+Resources
+---------
+
+- <http://github.com/tendermint/go-crypto>
